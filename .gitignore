@@ -130,3 +130,5 @@ dmypy.json
 
 # Custom
 .vscode/
+*.zip
+SCUT-FBP5500_v2/
